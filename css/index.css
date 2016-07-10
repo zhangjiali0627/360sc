@@ -567,7 +567,7 @@ body{
 		bottom:80px;
 		background: url(../images/backtop.png)center center;
 		background-size: 34px 34px;
-		z-index: 20;
+		z-index:9999;
 		display: none;
 	}
 
