@@ -568,5 +568,6 @@ body{
 		background: url(../images/backtop.png)center center;
 		background-size: 34px 34px;
 		z-index: 20;
+		display: none;
 	}
 
